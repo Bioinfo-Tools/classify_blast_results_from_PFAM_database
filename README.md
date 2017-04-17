@@ -45,7 +45,7 @@ The columns above correspond to:
 
 You can run the present tool by:
 
-Rscript convert_PFAM_to_molecular_function.R blast_output_example.txt 75 1e-5
+Rscript classify_blast_results_from_PFAM_database.R blast_output_example.txt 75 1e-5
 
 where:
 
