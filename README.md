@@ -48,8 +48,11 @@ You can run the present tool by:
 Rscript convert_PFAM_to_molecular_function.R blast_output_example.txt 75 1e-5
 
 where:
+
 the first paremeter is the blast output file (blast_output_example.txt in this case)
+
 the second parameter is the sequence identity cuttoff value (75% in this case)
+
 the third parameter is the e-value cuttoff (1e-5 in this example)
 
 
